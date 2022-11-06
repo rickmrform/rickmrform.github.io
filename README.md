@@ -1,2 +1,2 @@
 # rickfbauth
-Ejemplo de autenticación con Firebase y Google.
+Ejemplo de un formulario en github.
